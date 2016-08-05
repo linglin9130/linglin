@@ -1,4 +1,3 @@
-# linglin
 setwd("C:/Users/ASUS/Desktop/BUmmos/data_edit to used")
  install.packages("readxl")
  library(readxl)
